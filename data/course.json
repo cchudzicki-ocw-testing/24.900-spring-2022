@@ -1,0 +1,37 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "906fb5b5-becc-0ab7-eccd-df0d09c0f34b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "introduction-to-linguistics"
+  },
+  "course_title": "Introduction to Linguistics",
+  "course_description": "This class provides some answers to basic questions about the nature of human language.\u00a0 Throughout the course, we examine a number of ways in which human language is a complex but law-governed mental system.\u00a0 Much of the class is devoted to studying some core aspects of this system in detail; we also spend individual classes discussing a number of other issues, including how language is acquired, how languages change over time, language endangerment, and others.",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.900",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "introduction-to-linguistics"
+  },
+  "learning_resource_types": [],
+  "site_uid": "9455d4eb-9345-4d8b-b420-5924c0375bd8"
+}
