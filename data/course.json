@@ -18,7 +18,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "467fe435-68d3-4d3e-9ef6-ad4f94edb839",
     "website": "introduction-to-linguistics"
   },
   "course_title": "Introduction to Linguistics",
@@ -29,9 +29,13 @@
   "extra_course_numbers": "",
   "primary_course_number": "24.900",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "def0ab47-db7e-46f8-b2d1-830d7b4ff8ea",
     "website": "introduction-to-linguistics"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
   "site_uid": "9455d4eb-9345-4d8b-b420-5924c0375bd8"
 }
