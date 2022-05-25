@@ -33,9 +33,9 @@ More generally, if there is any conflict between information on the course slide
 This classroom is designed to make recordings of the lectures, and of the slides and the blackboard. I’ve never used this system before, so I don’t know how good the recordings will be. The recordings will be made freely available to anyone who:
 
 - generally attends class, but has had to miss a class, or
-- has to miss class for reasons that Student Support Services (S3) can document for me.
+- has to miss class for reasons that [Student Support Services (S3)](https://studentlife.mit.edu/s3) can document for me.
 
-In neither case do you have to give me a reason for needing the recording. If you have to miss class for a reason that S3 can help you with, then you should contact S3 ([https://studentlife.mit.edu/s3Links](https://studentlife.mit.edu/s3Links) to an external site.), and they will send me an e-mail which will not give me any details about your situation (it will just say something like “\[your name\] has been in touch with us, and we agree that they should be given access to the recordings of the class for \[dates\].”
+In neither case do you have to give me a reason for needing the recording. If you have to miss class for a reason that S3 can help you with, then you should contact S3, and they will send me an e-mail which will not give me any details about your situation—it will just say something like “\[your name\] has been in touch with us, and we agree that they should be given access to the recordings of the class for \[dates\]."
 
 ## Homework: Problem Sets and Papers
 
@@ -61,11 +61,11 @@ You will also submit an additional polished paper, which may be a revised versio
 
 We will discuss the topics of these papers as the semester progresses. Your opportunities for “oral expression” will arise in the fieldwork parts of the course, as well as in class and in recitation.
 
-Two writing advisors from the [WCC](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers: Janis Melvold and Elena Kallestinova. We strongly encourage all 24.900 students to make use of this resource, and in some cases we may require it for your benefit as writers.
+Two writing advisors from the [WCC](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers. We strongly encourage all 24.900 students to make use of this resource, and in some cases we may require it for your benefit as writers.
 
 ### Due dates:
 
-Problem sets will be posted on Tuesday, and will be due *the following Tuesday*, where *Tuesday* is understood as ending at dawn on Wednesday. Papers will be due as indicated on the syllabus (which may be revised as needed, so please continue to check the class website).
+Problem sets will be posted on Tuesday, and will be due the following Tuesday, where *Tuesday* is understood as ending at dawn on Wednesday. Papers will be due as indicated on the syllabus (which may be revised as needed, so please continue to check the class website).
 
 It is our goal to have problem sets corrected for discussion in recitation by that Friday. Papers may take longer to be returned.
 
