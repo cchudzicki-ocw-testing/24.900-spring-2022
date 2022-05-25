@@ -41,7 +41,7 @@ Some of these problem sets will also require you to do linguistic fieldwork. For
 
 ### Papers
 
-HASS CI subjects must require at least 5000 words of writing, divided among 3-5 assignments. Of these assignments, at least one must be revised and resubmitted. HASS CI subjects should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class participation. In order to guarantee sufficient attention to student writing and substantial opportunity for oral expression, the maximum number of students per section in a HASS CI subject is 18.
+[HASS CI](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement) subjects must require at least 5000 words of writing, divided among 3–5 assignments. Of these assignments, at least one must be revised and resubmitted. HASS CI subjects should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class participation. In order to guarantee sufficient attention to student writing and substantial opportunity for oral expression, the maximum number of students per section in a HASS CI subject is 18.
 
 You will be required to write three relatively short papers:
 
@@ -82,7 +82,7 @@ If you are having problems with any assignment, do not hesitate to get in touch 
 - Problem sets: 40% \[lowest problem set grade dropped\]
 - Papers: 60%
 
-## Honesty and collaboration policy
+## Honesty and Collaboration Policy
 
 Please read these guidelines carefully. In case of academic dishonesty, ignorance of these rules will not be taken as an excuse.
 
@@ -91,4 +91,4 @@ Please read these guidelines carefully. In case of academic dishonesty, ignoranc
 - All print and online sources consulted in the process of writing a paper must be explicitly acknowledged in the text of your paper, and listed in the references section. All quotations must be indicated and fully referenced.
 - If we determine that the Honesty and Collaboration Policy described above has been violated in any assignment, we will take appropriate measures. At a minimum, that assignment will receive a grade of zero and will count as unsubmitted. We will also not hesitate to refer the matter to the Office of Student Citizenship and the Committee on Discipline.
 
-If you have not done so already, please familiarize yourself with the MIT Academic Integrity guidelines: [http://integrity.mit.eduLinks](http://integrity.mit.eduLinks) to an external site.
+If you have not done so already, please familiarize yourself with the MIT [Academic Integrity guidelines](https://integrity.mit.edu/).
