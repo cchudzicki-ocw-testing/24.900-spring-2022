@@ -4,7 +4,15 @@ draft: false
 title: Syllabus
 uid: 4b1c46b4-251f-4aec-87d5-88dc71957ce3
 ---
-**TR 11-12:30**
+## Course Meeting Times
+
+Lectures: 2 sessions / week, 1.5 hours / session
+
+Recitations: 1 session / week, 1 hour / session
+
+## Prerequisites
+
+There are no prerequisites for this course.
 
 ## Course Description
 
@@ -53,27 +61,19 @@ You will also submit an additional polished paper, which may be a revised versio
 
 We will discuss the topics of these papers as the semester progresses. Your opportunities for “oral expression” will arise in the fieldwork parts of the course, as well as in class and in recitation.
 
-Two writing advisors have been assigned to this course, who will be available to help you develop, structure, and revise your papers: Janis Melvold ([melvold@mit.edu](mailto:melvold@mit.edu)) and Elena Kallestinova ([ek007@mit.edu](mailto:ek007@mit.edu)). We strongly encourage all 24.900 students to make use of this resource, and in some cases we may require it (for your benefit as writers). They are both from the WCC, about which some more information follows:
-
-The WCC at MIT (Writing and Communication Center) offers *free* one-on-one professional advice from experts in communication and rhetorical theory (MIT lecturers who all have advanced degrees and who are all are published scholars and writers). The WCC works with undergraduate students, graduate students, post-docs, faculty and staff members.
-
-The WCC helps you strategize about all types of academic, creative, job-related, and professional writing as well as about all aspects of oral presentations (including practicing your presentations & designing slides). No matter what department or discipline you are in, we help you think your way more deeply into your topic, help you see new implications in your data, research and ideas. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice, from understanding genre conventions to analyzing what particular journals require.
-
-The WCC’s website is at [https://cmsw.mit.edu/writing-and-communication-center/Links](https://cmsw.mit.edu/writing-and-communication-center/Links) to an external site. To register with their online scheduler and to make appointments, go to [https://mit.mywconline.com/ (Links](https://mit.mywconline.com/ (Links) to an external site.) 
+Two writing advisors from the [WCC](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers: Janis Melvold and Elena Kallestinova. We strongly encourage all 24.900 students to make use of this resource, and in some cases we may require it for your benefit as writers.
 
 ### Due dates:
 
-Problem sets will be posted on Tuesday, and will be due *the following Tuesday*, where *Tuesday* is understood as ending at dawn on Wednesday. Papers will be due as indicated on the syllabus (which may be revised as needed, so please continue to check the class website)
+Problem sets will be posted on Tuesday, and will be due *the following Tuesday*, where *Tuesday* is understood as ending at dawn on Wednesday. Papers will be due as indicated on the syllabus (which may be revised as needed, so please continue to check the class website).
 
 It is our goal to have problem sets corrected for discussion in recitation by that Friday. Papers may take longer to be returned.
 
-You may hand in one paper late; it may be, at most, three days late. You don’t have to tell us why; just let us know in advance that your paper will be late.
-
-Similarly, you may hand in one problem set late (at most, three days late); again, there is no need to tell us why, as long as you let us know in advance.
+You may hand in one paper up to three days late. You don’t have to tell us why; just let us know in advance that your paper will be late. Similarly, you may hand in one problem set up to three days late, as long as you let us know in advance.
 
 ### How to submit problem sets and papers
 
-You should submit problem sets and papers via the Canvas website. They should be submitted as PDF files, either created directly from the word processor of your choice or scanned from legible originals. Please do not send us any other kind of electronic file. If you feel you need to submit an assignment non-electronically, check with your recitation instructor first.
+Problem sets and papers should be submitted online as PDF files, either created directly from the word processor of your choice or scanned from legible originals. Please do not send us any other kind of electronic file. If you feel you need to submit an assignment non-electronically, check with your recitation instructor first.
 
 If you are having problems with any assignment, do not hesitate to get in touch with your recitation leader or with the instructor, in person or by e-mail. We are more than happy to help. 
 
