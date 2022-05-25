@@ -12,7 +12,7 @@ This class will provide some answers to basic questions about the nature of huma
 
 ## Readings
 
-Assigned readings are listed on the Readings page; you should also review the Lecture Slides. There is no textbook for this course. If you would like to have a textbook, a pretty good one is:
+Assigned readings are listed on the {{% resource_link "642f9ed2-92a6-4d94-a8b2-1999612071b3" "Readings" %}} page; you should also review the {{% resource_link "db335c9f-6141-4454-b87e-64f0a79998e2" "Lecture Slides" %}}. There is no textbook for this course. If you would like to have a textbook, a pretty good one is:
 
             O’Grady, William, John Archibald, Mark Aronoff, and Janie Rees-Miller (2017). *Contemporary Linguistics: An Introduction*. New York: Bedford/St. Martin's.
 
@@ -27,7 +27,7 @@ This classroom is designed to make recordings of the lectures, and of the slides
 - generally attends class, but has had to miss a class, or
 - has to miss class for reasons that Student Support Services (S3) can document for me.
 
-In neither case do you have to give me a reason for needing the recording.  If you have to miss class for a reason that S3 can help you with, then you should contact S3 ([https://studentlife.mit.edu/s3Links to an external site.](https://studentlife.mit.edu/s3)), and they will send me an e-mail which will not give me any details about your situation (it will just say something like “\[your name\] has been in touch with us, and we agree that they should be given access to the recordings of the class for \[dates\].”
+In neither case do you have to give me a reason for needing the recording.  If you have to miss class for a reason that S3 can help you with, then you should contact S3 ([https://studentlife.mit.edu/s3Links](https://studentlife.mit.edu/s3Links) to an external site.), and they will send me an e-mail which will not give me any details about your situation (it will just say something like “\[your name\] has been in touch with us, and we agree that they should be given access to the recordings of the class for \[dates\].”
 
 ## Homework: Problem Sets and Papers
 
@@ -59,7 +59,7 @@ The WCC at MIT (Writing and Communication Center) offers *free* one-on-one profe
 
 The WCC helps you strategize about all types of academic, creative, job-related, and professional writing as well as about all aspects of oral presentations (including practicing your presentations & designing slides). No matter what department or discipline you are in, we help you think your way more deeply into your topic, help you see new implications in your data, research and ideas. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice, from understanding genre conventions to analyzing what particular journals require.
 
-The WCC’s website is at [https://cmsw.mit.edu/writing-and-communication-center/Links to an external site.](https://cmsw.mit.edu/writing-and-communication-center/) .  To register with their online scheduler and to make appointments, go to [https://mit.mywconline.com/ (Links to an external site.)](https://mit.mywconline.com/) 
+The WCC’s website is at [https://cmsw.mit.edu/writing-and-communication-center/Links](https://cmsw.mit.edu/writing-and-communication-center/Links) to an external site. .  To register with their online scheduler and to make appointments, go to [https://mit.mywconline.com/ (Links](https://mit.mywconline.com/ (Links) to an external site.) 
 
 ### Due dates:
 
@@ -91,4 +91,4 @@ Please read these guidelines carefully.  In case of academic dishonesty, ignora
 - All print and online sources consulted in the process of writing a paper must be explicitly acknowledged in the text of your paper, and listed in the references section. All quotations must be indicated and fully referenced.
 - If we determine that the Honesty and Collaboration Policy described above has been violated in any assignment, we will take appropriate measures.  At a minimum, that assignment will receive a grade of zero and will count as unsubmitted.  We will also not hesitate to refer the matter to the Office of Student Citizenship and the Committee on Discipline.
 
-If you have not done so already, please familiarize yourself with the MIT Academic Integrity guidelines:  [http://integrity.mit.eduLinks to an external site.](http://integrity.mit.edu/).
+If you have not done so already, please familiarize yourself with the MIT Academic Integrity guidelines:  [http://integrity.mit.eduLinks](http://integrity.mit.eduLinks) to an external site..
