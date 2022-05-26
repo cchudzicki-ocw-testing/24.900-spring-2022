@@ -6,10 +6,7 @@ uid: 57500f61-1787-433a-9349-b7af0a9a143c
 ---
 Part 1: Greenlandic Vowels 
 
-Examine the distribution of the vowels \[i, e, u, o, ɑ\] in the data below. Your task is to analyze   
-the data and determine what the underlying vowels are, and how many of them there are. It’s   
-possible that there are fewer than five underlying vowels, and that some of these surface vowels   
-are really allophones of a single underlying vowel phoneme. Or maybe not. You decide. 
+Examine the distribution of the vowels \[i, e, u, o, ɑ\] in the data below. Your task is to analyze the data and determine what the underlying vowels are, and how many of them there are. It’s possible that there are fewer than five underlying vowels, and that some of these surface vowels are really allophones of a single underlying vowel phoneme. Or maybe not. You decide. 
 
 \[ʀ\] is a uvular trill, \[q\] a voiceless uvular stop. 
 
@@ -31,21 +28,13 @@ are really allophones of a single underlying vowel phoneme. Or maybe not. You de
 - ugsik ‘cow’ 
 - neʀdloq ‘goose’ 
 
-Once you have determined what the underlying vowels are, formulate a rule or rules (if your   
-analysis requires them) that accounts for all the data above. You can state the rule using prose:   
-for example, you could say something like “The back vowels become front vowels before nasal   
-consonants,” if you think that’s the right rule (spoiler: it’s not!). Your analysis should include a lexicon (with each   
-of the words in its underlying form), in addition to a few sample derivations. 
+Once you have determined what the underlying vowels are, formulate a rule or rules (if your analysis requires them) that accounts for all the data above. You can state the rule using prose: for example, you could say something like “The back vowels become front vowels before nasal  consonants,” if you think that’s the right rule (spoiler: it’s not!). Your analysis should include a lexicon (with each of the words in its underlying form), in addition to a few sample derivations. 
 
 Part 2: Transcription 
 
-Rewrite these sentences in standard English spelling (putting in whatever punctuation seems   
-appropriate). The transcription corresponds (roughly) to the pronunciation of Norvin Richards,   
-and of course your accent may be different! If you do notice differences, feel free to write us a   
-note about them. 
+Rewrite these sentences in standard English spelling (putting in whatever punctuation seems appropriate). The transcription corresponds (roughly) to the pronunciation of Norvin Richards, and of course your accent may be different! If you do notice differences, feel free to write us a note about them. 
 
-1. ðij ʌðəɹ dej aj gɑt awt ə kʰæn opənəɹ ænd wəz opənɪŋ ə kʰæn əv wəɹmz wɛn aj θɔt wʌt æm aj   
-    duwɪŋ 
+1. ðij ʌðəɹ dej aj gɑt awt ə kʰæn opənəɹ ænd wəz opənɪŋ ə kʰæn əv wəɹmz wɛn aj θɔt wʌt æm aj duwɪŋ 
 2. juw sej tʰəmeɾow ænd aj sej tʰəmɑɾow 
 3. ʃen ɪz spɛld ɛs etʃ ej ɛn ij 
 4. ə læŋgwədʒ ɪz ə dajəlɛkt wɪθ ən ɑɹmij ænd ə nevij 
