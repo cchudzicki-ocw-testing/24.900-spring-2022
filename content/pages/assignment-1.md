@@ -4,13 +4,13 @@ draft: false
 title: Assignment 1
 uid: e5ca247a-22a6-4647-a855-e27ae64b78c9
 ---
-**Due:**  **Tuesday, March 1st**
+**Due:**  **Session 7**
 
 **Length**:  **approximately 1000 words (≈ 4 pages, double-spaced)**
 
-For the first paper in this class, you will read a published article that makes a claim about language, and write a short critical paper that summarizes and evaluates the authors’ claim.  In order to do this, you will need to consider the evidence that is put forward in support of the claim and discuss the strengths and weaknesses of the authors’ evidence and arguments.
+For the first paper in this class, you will read a published article that makes a claim about language, and write a short critical paper that summarizes and evaluates the authors’ claim. In order to do this, you will need to consider the evidence that is put forward in support of the claim and discuss the strengths and weaknesses of the authors’ evidence and arguments.
 
-The articles that you may choose from are listed below and can be accessed under “Assignment 1: Critical Summary Articles”.
+The articles that you may choose from are listed below and can be accessed under “Assignment 1: Critical Summary Articles.”
 
 **A well-written paper should:**
 
@@ -27,15 +27,15 @@ The articles that you may choose from are listed below and can be accessed under
 
 You are not expected to do any research or consult other sources of information for this assignment.
 
-Be sure to cite page numbers of any quotations from the article.  A full bibliographic APA citation of the article should appear at the end of the essay.  Please keep your paper to approximately 1000 words (not counting the bibliographic citation).
+Be sure to cite page numbers of any quotations from the article. A full bibliographic APA citation of the article should appear at the end of the essay. Please keep your paper to approximately 1000 words (not counting the bibliographic citation).
 
 ## **Articles to choose from:**
 
-[Berent, I., Lennertz, T., Jun J., Moreno, M. & Smolensky, P. (2008). Language Universals in Human Brains. *PNAS*: 105:14, 5321-5325](https://canvas.mit.edu/courses/13495/files/2153438?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)Download Berent, I., Lennertz, T., Jun J., Moreno, M. & Smolensky, P. (2008). Language Universals in Human Brains. PNAS: 105:14, 5321-5325](https://canvas.mit.edu/courses/13495/files/2153438/download?download_frd=1)
+Berent, I., Lennertz, T., Jun J., Moreno, M. & Smolensky, P. (2008). Language Universals in Human Brains. *PNAS*: 105:14, 5321-5325.
 
-[Culbertson, J., & Adger, D. (2014). Language learners privilege structured meaning over surface frequency. *PNAS*: 111(16). 5842-5847.](https://canvas.mit.edu/courses/13495/files/2153439?wrap=1) [![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)Download Culbertson, J., & Adger, D. (2014). Language learners privilege structured meaning over surface frequency. PNAS: 111(16). 5842-5847.](https://canvas.mit.edu/courses/13495/files/2153439/download?download_frd=1)
+Culbertson, J., & Adger, D. (2014). Language learners privilege structured meaning over surface frequency. *PNAS*: 111(16). 5842-5847.
 
-These articles do have some technical content, but they are not intended solely for readers with a strong background in Linguistics.  Although there will be some technical terms and details of the analysis that go beyond what you have studied so far, you should be able to grasp the central ideas and claims of the article, which is all that we are expecting.  If you are uncertain as to whether you are interpreting a technical term or analysis correctly, you can simply indicate this, and proceed on the assumption that you are correct.  It is also fine to ask the instructor or a TA to verify your interpretation.
+These articles do have some technical content, but they are not intended solely for readers with a strong background in Linguistics. Although there will be some technical terms and details of the analysis that go beyond what you have studied so far, you should be able to grasp the central ideas and claims of the article, which is all that we are expecting. If you are uncertain as to whether you are interpreting a technical term or analysis correctly, you can simply indicate this, and proceed on the assumption that you are correct. It is also fine to ask the instructor or a TA to verify your interpretation.
 
 ## Grading Rubric
 
@@ -52,7 +52,7 @@ INTRODUCTORY FRAMING & FOCUS
 - Does the introduction establish a clear position in the form of the central thesis? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -63,7 +63,7 @@ SUMMARY OF THE ARTICLE
 - How well does the essay explain the authors' interpretation of the findings linking it to the claim? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -73,7 +73,7 @@ CRITICAL ANALYSIS SECTION
 - Is the critical analysis supported by evidence and reasoning? (8 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -83,7 +83,7 @@ CONCLUSION
 - Does the essay highlight the significance of the study or suggest the direction for future research? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -94,7 +94,7 @@ USE OF SOURCES AND CITATIONS
 - Does the essay add the source at the end of the paper? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -106,7 +106,7 @@ ORGANIZATION
 - Are transitions & signal phrases used to highlight connections among the main points? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts  
+20 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -117,7 +117,7 @@ EXPRESSION
 - Is the style of the essay appropriate for the essay’s purpose and target audience? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -126,7 +126,7 @@ MECHANICS
 - Is the essay free of mechanical errors, including grammar, punctuation, & spelling?
 
 {{< tdclose >}}{{< tdopen >}}
-5 pts  
+5 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Total Points: 100
