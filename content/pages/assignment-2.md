@@ -27,3 +27,79 @@ These are just some ideas to get you started; you shouldn’t feel constrained t
 - discuss what you would like to find out about this domain. Outline hypotheses about possible answers to the questions you are posing. 
 - propose how you would go about gathering data bearing on the topic. 
 - discuss briefly how the data might turn out.
+
+## Rubric for the Research Proposal
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Criteria
+{{< thclose >}}{{< thopen >}}
+Pts
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
+**Background**
+
+Topic and its background (5pts)  
+A clear problem/ question (5pts)  
+Data illustrating the problem (5pts)  
+Importance of the problem (5pts)  
+The hypotheses (5pts)
+
+{{< tdclose >}}{{< tdopen >}}
+25 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+**Research Data**
+
+The data needed to answer the question.
+
+{{< tdclose >}}{{< tdopen >}}
+20 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+**Methodology**
+
+Information about the subjects (4pts)  
+A detailed account of the testing conditions (4pts)  
+Description of the recording process (3pts)  
+Explanation of the data analysis process (4pts)
+
+{{< tdclose >}}{{< tdopen >}}
+15 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+**Predictions and Significance**
+
+Possible outcomes of your research (5pts)  
+Value/significance of answering the research question (5pts)
+
+{{< tdclose >}}{{< tdopen >}}
+10 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+**Organization**
+
+The proposal has a clear section structure with proper headings (5pts).  
+The key elements are arranged in a logical sequence (5pts).  
+The paragraphs are structured around a central, unifying idea (5pts).  
+Transitions & signal phrases are used to highlight connections among the main points (5pts).
+
+{{< tdclose >}}{{< tdopen >}}
+20 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+
+**Clarity and Mechanics**
+
+The writing is clear and easy to read (5pts).  
+The proposal does not have grammar, punctuation, and spelling errors (5pts).
+
+{{< tdclose >}}{{< tdopen >}}
+10 pts  
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
+Total Points: 100
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
