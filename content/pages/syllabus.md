@@ -22,7 +22,7 @@ This class will provide some answers to basic questions about the nature of huma
 
 Assigned readings are listed on the {{% resource_link "642f9ed2-92a6-4d94-a8b2-1999612071b3" "Readings" %}} page; you should also review the {{% resource_link "db335c9f-6141-4454-b87e-64f0a79998e2" "Lecture Slides" %}}. There is no textbook for this course. If you would like to have a textbook, a pretty good one is:
 
-            O’Grady, William, John Archibald, Mark Aronoff, and Janie Rees-Miller (2017). *Contemporary Linguistics: An Introduction*. New York: Bedford/St. Martin's.
+- O’Grady, William, John Archibald, Mark Aronoff, and Janie Rees-Miller (2017). *Contemporary Linguistics: An Introduction*. New York: Bedford/St. Martin's.
 
 This would probably be our textbook, if we were going to have a textbook…but it isn’t quite good enough to justify making you buy it. It could be a useful resource, but you should bear in mind that we will be contradicting what it says, every so often. The general rule, if you seem to see a contradiction between us and the book, is that we are right and the book is wrong (though if you notice contradictions like this, it’s worth asking about them; maybe there’s some mistake, either yours or ours).
 
