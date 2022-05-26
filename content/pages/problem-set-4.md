@@ -20,9 +20,7 @@ Consider the sentence in (2): 
 
 (2) These are the people \[who you might know\] 
 
-Here’s a tree we might posit for the structure of the NP at the end of (2): 
-
-(3) 
+Here’s a tree we might posit for the structure of the NP at the end of (2):  
 
 {{< resource uuid="5c33ae5d-c712-4bb5-9c11-76f79f424e7d" >}}
 
@@ -48,9 +46,9 @@ Theory #2: the NP at the end of (4) has a CP, and wh-movement; it differs from (
 
 How do the data in (7–10) bear on the choice between these theories? 
 
-(7) \*These are the people you might know my cousin and       
-(8) \*These are the people you might think that will win the race       
-(9) These are the people you might think will win the race       
+(7) \*These are the people you might know my cousin and        
+(8) \*These are the people you might think that will win the race        
+(9) These are the people you might think will win the race        
 (10) \*These are the people you are wondering where you met 
 
 (assume that the sentences I’ve given \* to are in fact ungrammatical…though if this is not true for you, please feel free to tell us so)
