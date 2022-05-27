@@ -19,9 +19,9 @@ leftnav:
   name: Lecture Videos
   url: /pages/lecture-videos
   weight: 50
-- identifier: 55fd0f2a-8b2d-49bc-9d61-d974a59424cf
-  name: Assignments
-  url: /pages/assignments
+- identifier: 98736628-5262-47fd-99b7-301d652d1c4a
+  name: Written Assignments
+  url: /pages/assignments2
   weight: 60
 - identifier: 899bb29a-22b5-4e17-93b3-ffc574daa551
   name: Problem Sets
@@ -29,22 +29,22 @@ leftnav:
   weight: 70
 - identifier: e5ca247a-22a6-4647-a855-e27ae64b78c9
   name: Assignment 1
-  parent: 55fd0f2a-8b2d-49bc-9d61-d974a59424cf
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
   url: /pages/assignment-1
   weight: 10
 - identifier: bf14bd7d-6ee9-4653-974e-684e799e31e4
   name: Assignment 2
-  parent: 55fd0f2a-8b2d-49bc-9d61-d974a59424cf
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
   url: /pages/assignment-2
   weight: 20
 - identifier: 936c1024-0499-4c07-b78f-f56eb1ec5e91
   name: Assignment 3
-  parent: 55fd0f2a-8b2d-49bc-9d61-d974a59424cf
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
   url: /pages/assignment-3
   weight: 30
 - identifier: 0e88c72f-fc2b-42c8-97ec-3f56d0f9e96e
   name: Final Assignment
-  parent: 55fd0f2a-8b2d-49bc-9d61-d974a59424cf
+  parent: 98736628-5262-47fd-99b7-301d652d1c4a
   url: /pages/final-assignment
   weight: 40
 - identifier: 2967e1eb-ef53-4438-9611-69fef34bc73d
