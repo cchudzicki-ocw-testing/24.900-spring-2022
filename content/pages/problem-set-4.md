@@ -4,8 +4,6 @@ draft: false
 title: Problem Set 4
 uid: 77589af9-da3c-4410-a141-a270363fa954
 ---
-Problem Set 4 
-
 Due: Session 21
 
 ## Part One 
@@ -46,9 +44,9 @@ Theory #2: the NP at the end of (4) has a CP, and wh-movement; it differs from (
 
 How do the data in (7–10) bear on the choice between these theories? 
 
-(7) \*These are the people you might know my cousin and        
-(8) \*These are the people you might think that will win the race        
-(9) These are the people you might think will win the race        
+(7) \*These are the people you might know my cousin and         
+(8) \*These are the people you might think that will win the race         
+(9) These are the people you might think will win the race         
 (10) \*These are the people you are wondering where you met 
 
 (assume that the sentences I’ve given \* to are in fact ungrammatical…though if this is not true for you, please feel free to tell us so)
