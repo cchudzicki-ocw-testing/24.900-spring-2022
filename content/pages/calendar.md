@@ -27,7 +27,7 @@ Morphology 
 {{< tdclose >}}{{< tdopen >}}
 Morphology
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 0 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
@@ -45,13 +45,13 @@ Phonetics
 {{< tdclose >}}{{< tdopen >}}
 Phonetics
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Phonetics (shading into Phonology)
 {{< tdclose >}}{{< tdopen >}}
- 
+Written Assignment 1 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -69,7 +69,7 @@ Phonology
 {{< tdclose >}}{{< tdopen >}}
 Phonology
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 2 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -99,7 +99,7 @@ Syntax
 {{< tdclose >}}{{< tdopen >}}
 Syntax
 {{< tdclose >}}{{< tdopen >}}
- 
+Written Assignment 2 and Problem Set 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -135,13 +135,13 @@ Semantics
 {{< tdclose >}}{{< tdopen >}}
 Semantics
 {{< tdclose >}}{{< tdopen >}}
- 
+Problem Set 4 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 Dialects
 {{< tdclose >}}{{< tdopen >}}
- 
+Written Assignment 3 due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
