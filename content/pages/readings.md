@@ -12,7 +12,7 @@ Culbertson, J., and Adger, D. (2014). ["Language Learners Privilege Structured M
 
 ## Optional Reading:
 
-[![](https://canvas.mit.edu/images/svg-icons/svg_icon_download.svg)](https://canvas.mit.edu/courses/13495/files/2153439/download?download_frd=1)Young, V. A. (2010). ["Should Writers Use They Own English?"](https://pubs.lib.uiowa.edu/ijcs/article/id/29866/) *Iowa Journal of Cultural Studies* 12(1), 110–118.
+Young, V. A. (2010). ["Should Writers Use They Own English?"](https://pubs.lib.uiowa.edu/ijcs/article/id/29866/) *Iowa Journal of Cultural Studies* 12(1), 110–118.
 
 ## Other Resources:
 
