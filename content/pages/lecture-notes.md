@@ -36,7 +36,7 @@ uid: db335c9f-6141-4454-b87e-64f0a79998e2
 
 {{% resource_link "1ea00ee8-0b91-4d26-93c5-08b6b7e4eb06" "Lecture 16: Syntax (Part 6) (PDF)" %}}
 
-{{% resource_link "cb8dbbb7-0ff9-4d8e-8e23-e8cf3db1f1b5" "Lecture 17: Syntax (Part 6); Semantics (Part 1) (PDF)" %}}
+{{% resource_link "cb8dbbb7-0ff9-4d8e-8e23-e8cf3db1f1b5" "Lecture 17: Syntax (Part 7); Semantics (Part 1) (PDF)" %}}
 
 {{% resource_link "afea572a-8575-4534-9315-cd7b796a0940" "Lecture 18: Semantics (Part 2) (PDF)" %}}
 
