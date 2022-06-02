@@ -4,6 +4,8 @@ draft: false
 title: Problem Set 2
 uid: 57500f61-1787-433a-9349-b7af0a9a143c
 ---
+Due: Session 10
+
 ## Part 1: Greenlandic Vowels 
 
 Examine the distribution of the vowels \[i, e, u, o, ɑ\] in the data below. Your task is to analyze the data and determine what the underlying vowels are, and how many of them there are. It’s possible that there are fewer than five underlying vowels, and that some of these surface vowels are really allophones of a single underlying vowel phoneme. Or maybe not. You decide. 
