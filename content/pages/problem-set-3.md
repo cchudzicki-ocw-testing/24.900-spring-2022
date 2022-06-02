@@ -4,7 +4,6 @@ draft: false
 title: Problem Set 3
 uid: c1607778-6722-4fc4-93d0-c5986c781d96
 ---
-Problem Set 3: Syntax fieldwork      
 Due: Session 15
 
 In this problem set you will be gathering some data about the syntax of the language that you are  working on this semester. 
@@ -13,8 +12,8 @@ When you hand this problem set in, you can write the language you are studying e
 
 You should present the data in three lines, as in this example: 
 
-(1) vulqangan legh tlhIngan      
-Vulcan sees Klingon      
+(1) vulqangan legh tlhIngan       
+Vulcan sees Klingon       
 ‘The Klingon sees the Vulcan’ 
 
 Each example should have a number, which you’ll be able to refer to in the text of your answer (“we can see in example (1) that the verb follows the object in Klingon”). The first line of the example should be in the language you are studying. On the second line, you should provide a gloss for each word, literally translating each word into English. And then the third line should be an English translation, marked with single quotation marks. 
@@ -27,8 +26,8 @@ Your writing sample should be a .pdf file, ideally created by a word processor. 
 
 Get translations of two sentences with structures like those in (2-4): 
 
-(2) The dog saw a rabbit.      
-(3) The woman is reading a newspaper.      
+(2) The dog saw a rabbit.       
+(3) The woman is reading a newspaper.       
 (4) The students have eaten the pizza. 
 
 You do not have to use any of the sentences in (2–4), but the sentences you use should contain verbs (like *saw*, *reading*, and *eaten* in the sentences above) that have objects (like *a rabbit*, *a* *newspaper*, and *the pizza*). If you are considering getting a translation of a sentence and are not sure whether it has an object, feel free to check in with any of us (this is true for anything in this assignment). 
@@ -39,8 +38,8 @@ Languages vary with respect to the order of their verbs and their objects. In En
 
 Get translations of two sentences with structures parallel to those in (5–7): 
 
-(5) The professor is talking about linguistics.      
-(6) The boy left without an umbrella.      
+(5) The professor is talking about linguistics.       
+(6) The boy left without an umbrella.       
 (7) The students fell asleep during the lecture. 
 
 Again, you do not have to use any of these particular sentences, but your English sentences should have prepositions in them (like *about*, *without*, and *during* in the sentences above). 
@@ -55,8 +54,8 @@ In English, prepositions precede their objects. Is this true in the language you
 
 Get translations of two sentences with structures parallel to those in (8-10): 
 
-(8) I bought a red book.      
-(9) A hungry monkey has eaten our pizza.      
+(8) I bought a red book.       
+(9) A hungry monkey has eaten our pizza.       
 (10) We are making delicious sandwiches. 
 
 Again, you may discover that the language you are studying has nothing exactly parallel to English adjectives like *red*, *hungry*, and *delicious*. Just tell us what you find. 
@@ -73,12 +72,12 @@ Words like what in (11) are called “wh-words” in linguistics, because in Eng
 
 Some languages do not require wh-words to be at the beginning of the sentence: 
 
-(12) Mary mai **shenmo**? \[*Mandarin*\]      
-Mary buy what      
+(12) Mary mai **shenmo**? \[*Mandarin*\]       
+Mary buy what       
 ‘What did Mary buy?’ 
 
-(13) Mary-wa **nani-o** katta? \[*Japanese*\]      
-Mary what bought      
+(13) Mary-wa **nani-o** katta? \[*Japanese*\]       
+Mary what bought       
 ‘What did Mary buy?’ 
 
 What does your language do with its wh-words? Do they go at the beginning of the sentence, or not? Or does the language have both options? Give us at least one example of a wh-question.
