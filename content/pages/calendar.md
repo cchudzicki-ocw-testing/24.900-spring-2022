@@ -148,4 +148,22 @@ Written Assignment 3 due
 Historical Linguistics
 {{< tdclose >}}{{< tdopen >}}
  
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+24
+{{< tdclose >}}{{< tdopen >}}
+Signed Languages
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+25
+{{< tdclose >}}{{< tdopen >}}
+Endangered Languages
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+26
+{{< tdclose >}}{{< tdopen >}}
+Wrap-Up
+{{< tdclose >}}{{< tdopen >}}
+ 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
