@@ -12,14 +12,14 @@ For the first paper in this class, you will read a published article that makes 
 
 The articles that you may choose from are listed below and can be accessed under “Assignment 1: Critical Summary Articles.”
 
-**A well-written paper should:**
+A well-written paper should:
 
 - concisely summarize the main claim of the paper,
 - describe the key evidence that is presented in support of the claim,
 - evaluate whether the evidence confirms the researchers’ claim, or whether there might be other possible interpretations of the findings, and,
 - explain what broader and deeper questions about language are engaged by the research reported in the paper; in other words, why are the authors’ results interesting (or not) as part of a broader agenda of research on language?
 
-**In addition, the paper should do** ***one or more*** **of the following:**
+In addition, the paper should do *one or more* of the following:
 
 - If the evidence is ambiguous or insufficient to confirm the claim, discuss what type of data would be helpful in order to distinguish between the competing hypotheses or interpretations.
 - If the evidence actually seems to support a different interpretation than the one that is advanced in the article, provide an argument for why we should draw a different conclusion from what the authors advocate.
@@ -52,7 +52,7 @@ INTRODUCTORY FRAMING & FOCUS
 - Does the introduction establish a clear position in the form of the central thesis? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts   
+10 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -63,7 +63,7 @@ SUMMARY OF THE ARTICLE
 - How well does the essay explain the authors' interpretation of the findings linking it to the claim? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts   
+15 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -73,7 +73,7 @@ CRITICAL ANALYSIS SECTION
 - Is the critical analysis supported by evidence and reasoning? (8 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts   
+15 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -83,7 +83,7 @@ CONCLUSION
 - Does the essay highlight the significance of the study or suggest the direction for future research? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts   
+10 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -94,7 +94,7 @@ USE OF SOURCES AND CITATIONS
 - Does the essay add the source at the end of the paper? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts   
+10 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -106,7 +106,7 @@ ORGANIZATION
 - Are transitions & signal phrases used to highlight connections among the main points? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts   
+20 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -117,7 +117,7 @@ EXPRESSION
 - Is the style of the essay appropriate for the essay’s purpose and target audience? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts   
+15 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -126,7 +126,7 @@ MECHANICS
 - Is the essay free of mechanical errors, including grammar, punctuation, & spelling?
 
 {{< tdclose >}}{{< tdopen >}}
-5 pts   
+5 pts    
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Total Points: 100
