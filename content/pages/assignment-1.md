@@ -29,7 +29,7 @@ You are not expected to do any research or consult other sources of information 
 
 Be sure to cite page numbers of any quotations from the article. A full bibliographic APA citation of the article should appear at the end of the essay. Please keep your paper to approximately 1000 words (not counting the bibliographic citation).
 
-## **Articles to choose from:**
+## Articles to choose from:
 
 Berent, I., Lennertz, T., Jun J., Moreno, M. & Smolensky, P. (2008). Language Universals in Human Brains. *PNAS* 105(14): 5321–5325.
 
@@ -52,7 +52,7 @@ INTRODUCTORY FRAMING & FOCUS
 - Does the introduction establish a clear position in the form of the central thesis? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -63,7 +63,7 @@ SUMMARY OF THE ARTICLE
 - How well does the essay explain the authors' interpretation of the findings linking it to the claim? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -73,7 +73,7 @@ CRITICAL ANALYSIS SECTION
 - Is the critical analysis supported by evidence and reasoning? (8 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -83,7 +83,7 @@ CONCLUSION
 - Does the essay highlight the significance of the study or suggest the direction for future research? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -94,7 +94,7 @@ USE OF SOURCES AND CITATIONS
 - Does the essay add the source at the end of the paper? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -106,7 +106,7 @@ ORGANIZATION
 - Are transitions & signal phrases used to highlight connections among the main points? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts  
+20 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -117,7 +117,7 @@ EXPRESSION
 - Is the style of the essay appropriate for the essay’s purpose and target audience? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -126,7 +126,7 @@ MECHANICS
 - Is the essay free of mechanical errors, including grammar, punctuation, & spelling?
 
 {{< tdclose >}}{{< tdopen >}}
-5 pts  
+5 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Total Points: 100
