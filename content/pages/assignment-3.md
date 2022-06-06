@@ -4,11 +4,9 @@ draft: false
 title: Assignment 3
 uid: 936c1024-0499-4c07-b78f-f56eb1ec5e91
 ---
-**Assignment 3: Fieldwork Report**
-
 **Due: Session 22**
 
-**Length: 3000 words** 
+**Length: 3000 words**
 
 In this paper, you will report on the results of your linguistic fieldwork. Imagine that linguists knew nothing about your fieldwork language until you got to work on it, and you are the first linguist to conduct work on this language. You should write a preliminary “grammatical sketch” of the language. You will report and analyze the data from your own field notes; you should include only the data that you have collected yourself, not data gathered from other sources. You should assume an audience that knows a bit about linguistics—you should imagine that they know everything we’ve talked about in class—but nothing about your particular language. 
 
