@@ -4,7 +4,7 @@ draft: false
 title: Problem Set 2
 uid: 57500f61-1787-433a-9349-b7af0a9a143c
 ---
-Due: Session 10
+**Due: Session 10**
 
 ## Part 1: Greenlandic Vowels 
 
