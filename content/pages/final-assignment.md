@@ -4,12 +4,11 @@ draft: false
 title: Final Assignment
 uid: 0e88c72f-fc2b-42c8-97ec-3f56d0f9e96e
 ---
-Final assignment: Paper Revision    
-Due: last day of class
+**Due: last day of class**
 
 For this assignment, you will revise one of the three papers that you wrote during the  semester. The revisions should focus on improving the content, argumentation, organization and style of the original paper. Your revised paper will be graded based on the quality of the final paper and the extent of the revisions. 
 
-Your revisions may involve reconsidering and refining the claims of the paper. Perhaps further reflection might reveal a different or better way to capture data that you presented. Good revisions should also improve the flow of the argument: clearly present the thesis up front, provide well organized data and explain how they support the claims, include transitions that explain how one point leads to the next, and so on. Finally, revisions  strengthen the argument by ensuring that the data that you have selected truly supports the claims of the paper, and is not open to alternative interpretations. (Or, if alternative interpretations exist, explain why we should favor your interpretation.) In some cases, improving the argumentation might involve adding additional data that more directly supports your thesis; however, in just as many cases, it will involve removing material    
+Your revisions may involve reconsidering and refining the claims of the paper. Perhaps further reflection might reveal a different or better way to capture data that you presented. Good revisions should also improve the flow of the argument: clearly present the thesis up front, provide well organized data and explain how they support the claims, include transitions that explain how one point leads to the next, and so on. Finally, revisions  strengthen the argument by ensuring that the data that you have selected truly supports the claims of the paper, and is not open to alternative interpretations. (Or, if alternative interpretations exist, explain why we should favor your interpretation.) In some cases, improving the argumentation might involve adding additional data that more directly supports your thesis; however, in just as many cases, it will involve removing material     
 that is superfluous or only weakly makes the point. The main focus should be on improving the writing, and not on expanding the paper with substantial amounts of new data. 
 
 Some points to keep in mind: 
