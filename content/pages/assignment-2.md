@@ -4,9 +4,9 @@ draft: false
 title: Assignment 2
 uid: bf14bd7d-6ee9-4653-974e-684e799e31e4
 ---
-### Due: Session 15
+**Due: Session 15**
 
-### Length: approximately 1000 words (≈ 4 pages, double-spaced)
+**Length: approximately 1000 words (≈ 4 pages, double-spaced)**
 
 In this assignment, you are to write a research proposal, in which you describe an unsolved problem, your hypothesis, and how you would test it given time and materials for research. 
 
@@ -21,7 +21,7 @@ Your question may, but need not, center on the language that you have started do
 
 These are just some ideas to get you started; you shouldn’t feel constrained to choose any of them. You also don’t have to write about the language you’re working on at all; you can find some other topic in linguistics, either one we’ve covered or one we haven’t mentioned at all, and tell us what you would like to know about it. We are happy to talk with you about possible topics; if you have a topic you’d like to explore, check with your TA or your class instructors.
 
-### Once you have identified a topic you would like to explore, you should: 
+Once you have identified a topic you would like to explore, you should: 
 
 - describe the topic fully and clearly, assuming an audience that has taken 24.900 but has no other specialized knowledge. 
 - discuss what you would like to find out about this domain. Outline hypotheses about possible answers to the questions you are posing. 
@@ -38,14 +38,14 @@ Pts
 
 **Background**
 
-Topic and its background (5pts)  
-A clear problem/ question (5pts)  
-Data illustrating the problem (5pts)  
-Importance of the problem (5pts)  
+Topic and its background (5pts)   
+A clear problem/ question (5pts)   
+Data illustrating the problem (5pts)   
+Importance of the problem (5pts)   
 The hypotheses (5pts)
 
 {{< tdclose >}}{{< tdopen >}}
-25 pts  
+25 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
@@ -54,51 +54,51 @@ The hypotheses (5pts)
 The data needed to answer the question.
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts  
+20 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Methodology**
 
-Information about the subjects (4pts)  
-A detailed account of the testing conditions (4pts)  
-Description of the recording process (3pts)  
+Information about the subjects (4pts)   
+A detailed account of the testing conditions (4pts)   
+Description of the recording process (3pts)   
 Explanation of the data analysis process (4pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts  
+15 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Predictions and Significance**
 
-Possible outcomes of your research (5pts)  
+Possible outcomes of your research (5pts)   
 Value/significance of answering the research question (5pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Organization**
 
-The proposal has a clear section structure with proper headings (5pts).  
-The key elements are arranged in a logical sequence (5pts).  
-The paragraphs are structured around a central, unifying idea (5pts).  
+The proposal has a clear section structure with proper headings (5pts).   
+The key elements are arranged in a logical sequence (5pts).   
+The paragraphs are structured around a central, unifying idea (5pts).   
 Transitions & signal phrases are used to highlight connections among the main points (5pts).
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts  
+20 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
 **Clarity and Mechanics**
 
-The writing is clear and easy to read (5pts).  
+The writing is clear and easy to read (5pts).   
 The proposal does not have grammar, punctuation, and spelling errors (5pts).
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts  
+10 pts   
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 Total Points: 100
