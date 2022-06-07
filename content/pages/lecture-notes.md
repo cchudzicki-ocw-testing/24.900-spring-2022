@@ -20,7 +20,7 @@ uid: db335c9f-6141-4454-b87e-64f0a79998e2
 
 {{% resource_link "51a73f58-6b42-4f90-8ac7-15ab09f820e2" "Lecture 8: Phonology (Part 1) (PDF)" %}}
 
-{{% resource_link "51a73f58-6b42-4f90-8ac7-15ab09f820e2" "Lecture 9: Phonology (Part 2) (PDF)" %}}
+{{% resource_link "ff44b8a4-b3f2-41e9-a654-be80718cb2a4" "Lecture 9: Phonology (Part 2) (PDF)" %}}
 
 {{% resource_link "fee75ccc-5b97-464a-93e9-31d8d97fa53f" "Lecture 10: Phonology (Part 3) (PDF)" %}}
 
