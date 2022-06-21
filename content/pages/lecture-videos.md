@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains links to the lecture videos for 24.900 Introduction
+  to Linguistics.
 draft: false
 title: Lecture Videos
 uid: 592eb1af-de41-4ad8-868d-41de1ac2e246
@@ -49,3 +51,9 @@ Lecture 21: Semantics (Part 5)
 Lecture 22: Dialects
 
 Lecture 23: Historical Linguistics
+
+Lecture 24: Endangered Languages
+
+Lecture 25: Language Acquisition
+
+Lecture 26: Signed Languages
