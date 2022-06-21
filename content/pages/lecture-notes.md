@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains links to the lecture note files for 24.900 Introduction
+  to Linguistics
 draft: false
 title: Lecture Notes
 uid: db335c9f-6141-4454-b87e-64f0a79998e2
@@ -49,3 +51,9 @@ uid: db335c9f-6141-4454-b87e-64f0a79998e2
 {{% resource_link "67284a20-abe2-46bc-9cdd-102409c5f635" "Lecture 22: Dialects (PDF)" %}}
 
 {{% resource_link "146b5978-636a-480e-81d7-c4b8afec53ce" "Lecture 23: Historical Linguistics (PDF)" %}}
+
+Lecture 24: Endangered Languages (PDF)
+
+Lecture 25: Language Acquisition (PDF)
+
+Lecture 26: Signed Languages (PDF)
