@@ -52,8 +52,8 @@ uid: db335c9f-6141-4454-b87e-64f0a79998e2
 
 {{% resource_link "146b5978-636a-480e-81d7-c4b8afec53ce" "Lecture 23: Historical Linguistics (PDF)" %}}
 
-Lecture 24: Endangered Languages (PDF)
+{{% resource_link "5a9bc840-df41-4a5a-9a10-2a93246cc072" "Lecture 24: Endangered Languages (PDF)" %}}
 
-Lecture 25: Language Acquisition (PDF)
+{{% resource_link "8e9fd7c6-3484-40d9-968b-9aa7a8eb97ba" "Lecture 25: Language Acquisition (PDF)" %}}
 
-Lecture 26: Signed Languages (PDF)
+{{% resource_link "7dce70a8-a3c2-4957-b243-04325e54d40f" "Lecture 26: Signed Languages (PDF)" %}}
