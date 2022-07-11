@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: MIT24_900s22probset4sent5.PNG
 uid: 4c8184b0-0dc7-4f65-a954-e94c29ec94f8
