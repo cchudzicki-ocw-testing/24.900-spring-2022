@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lays out the topics of lectures as well as the scheduled due
+  dates for assignments in the class.
 draft: false
 title: Calendar
 uid: efd052e1-bf69-4bf7-b674-b467d979c332
@@ -151,19 +153,19 @@ Historical Linguistics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-Signed Languages
+Endangered Languages
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
-Endangered Languages
+Language Acquisition
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
-Wrap-Up
+Signed Languages
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
