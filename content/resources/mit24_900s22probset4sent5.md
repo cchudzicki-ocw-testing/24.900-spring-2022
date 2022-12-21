@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/introduction-to-linguistics-spring-2022/mit24_900s22probset4sent5.png
+file: /courses/24-900-introduction-to-linguistics-spring-2022/mit24_900s22probset4sent5.png
 file_type: image/png
 image_metadata:
   caption: ''
