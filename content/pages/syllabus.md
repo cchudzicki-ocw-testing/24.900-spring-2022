@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page lays out the general description and course policies for 24.900
+  Introduction to Linguistics.
 draft: false
 title: Syllabus
 uid: 4b1c46b4-251f-4aec-87d5-88dc71957ce3
@@ -61,7 +63,7 @@ You will also submit an additional polished paper, which may be a revised versio
 
 We will discuss the topics of these papers as the semester progresses. Your opportunities for “oral expression” will arise in the fieldwork parts of the course, as well as in class and in recitation.
 
-Two writing advisors from the [WCC](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers. We strongly encourage all 24.900 students to make use of this resource, and in some cases we may require it for your benefit as writers.
+Two writing advisors from the [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers. We strongly encourage all students to make use of this resource, and in some cases we may require it for your benefit as writers.
 
 ### Due dates:
 
