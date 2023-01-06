@@ -50,9 +50,9 @@ uid: db335c9f-6141-4454-b87e-64f0a79998e2
 
 {{% resource_link "67284a20-abe2-46bc-9cdd-102409c5f635" "Lecture 22: Dialects (PDF)" %}}
 
-{{% resource_link "146b5978-636a-480e-81d7-c4b8afec53ce" "Lecture 23: Historical Linguistics (PDF)" %}}
+{{% resource_link "146b5978-636a-480e-81d7-c4b8afec53ce" "Lecture 23: Historical Linguistics (PDF - 1 MB)" %}}
 
-{{% resource_link "5a9bc840-df41-4a5a-9a10-2a93246cc072" "Lecture 24: Endangered Languages (PDF)" %}}
+{{% resource_link "5a9bc840-df41-4a5a-9a10-2a93246cc072" "Lecture 24: Endangered Languages (PDF - 1.5 MB)" %}}
 
 {{% resource_link "8e9fd7c6-3484-40d9-968b-9aa7a8eb97ba" "Lecture 25: Language Acquisition (PDF)" %}}
 
