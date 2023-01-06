@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the first problem set assigned in 24.900 Introduction
+  to Linguistics.
 draft: false
 title: Problem Set 1
 uid: 7b050e00-d44e-4607-9d70-f92d1ba08241
@@ -10,67 +12,67 @@ uid: 7b050e00-d44e-4607-9d70-f92d1ba08241
 
 Consider the following Iñupiaq sentences: 
 
-a. Kamiqaqtuq       
+a. Kamiqaqtuq        
 ‘He/she has boots’ 
 
-b. Qayaq kiñŋuruq       
+b. Qayaq kiñŋuruq        
 ‘The kayak is capsizing’ 
 
-c. Itiqtutin       
+c. Itiqtutin        
 ‘You are awake’ 
 
-d. Sialuktuq       
+d. Sialuktuq        
 ‘It’s raining’ 
 
-e. Atigiqaqtuq       
+e. Atigiqaqtuq        
 ‘He/she has a parka’ 
 
-f. Qimmit niġirut       
+f. Qimmit niġirut        
 ‘The dogs are eating’ 
 
-g. Iglu qatiqtuq       
+g. Iglu qatiqtuq        
 ‘The house is white’ 
 
-h. Tiŋmiruŋa       
+h. Tiŋmiruŋa        
 ‘I am flying’ 
 
-i. Kamikluqaqtutin       
+i. Kamikluqaqtutin        
 ‘You have pants’ 
 
-j. Kamik maŋaqtuq       
+j. Kamik maŋaqtuq        
 ‘The boot is black’ 
 
-k. Niġirutin       
+k. Niġirutin        
 ‘You are eating’ 
 
-l. Qayaqaqtuŋa       
+l. Qayaqaqtuŋa        
 ‘I have a kayak’ 
 
-m. Atigi mikiruq       
+m. Atigi mikiruq        
 ‘The parka is small’
 
-n. Aġnaq iglaqtuq       
+n. Aġnaq iglaqtuq        
 ‘The woman is laughing’ 
 
-o. Qimmiq nakuuruq       
+o. Qimmiq nakuuruq        
 ‘The dog is all right’ 
 
-p. Iglut aŋirut       
+p. Iglut aŋirut        
 ‘The houses are big’ 
 
-q. Qimmiqaqtuŋa       
+q. Qimmiqaqtuŋa        
 ‘I have a dog’ 
 
-r. Aġnaq aquppiruq       
+r. Aġnaq aquppiruq        
 ‘The woman is sitting’ 
 
-s. Qayaq aŋiruq       
+s. Qayaq aŋiruq        
 ‘The kayak is big’ 
 
-t. Igluqaqtutin       
+t. Igluqaqtutin        
 ‘You have a house’ 
 
-u. Qaugat tiŋmirut       
+u. Qaugat tiŋmirut        
 ‘The ducks are flying’ 
 
 1\. Make as complete a list as you can of the morphemes appearing in these sentences. You may sometimes not have enough information to be sure what the underlying form of a particular morpheme should be; at times like that, you can just list a couple of possible forms. 
@@ -97,14 +99,15 @@ Give us the data you collect with glosses for each word in each sentence, follow
 
 3\. Ehpit ‘tokitomon wikhikon 
 
-woman read book       
+woman read book        
 ‘The woman read the book’ 
 
 Answer at least the following questions: 
 
 Question 1: List at least one allomorph for the plural morpheme (it’s entirely possible that there will only be one). You don’t have to find all the allomorphs to get full credit for this question. You may discover that your language just doesn’t mark plural on nouns: what you should do then is make at least two of your sentences ones in which the subject has to be interpreted as plural. For example, you could get translations of sentences like: 
 
-4\. The men are criticizing each other.       
+4\. The men are criticizing each other.      
+
 5\. The students met outside. 
 
 These are sentences in which the subjects have to be plural (for example, \*The man is criticizing each other doesn’t make sense). So you can use translations like this to demonstrate that some nouns are plural in your language, even if there’s no marking of plural. 
