@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the first written assignment for 24.900 Introduction
+  to Linguistics.
 draft: false
 title: Assignment 1
 uid: e5ca247a-22a6-4647-a855-e27ae64b78c9
@@ -45,60 +47,60 @@ Criteria
 Pts
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 
-INTRODUCTORY FRAMING & FOCUS
+**Introductory Framing & Focus**
 
 - Does the introduction provide background about the linguistic issue? (3 pts)
 - Does the introduction present the article and a brief summary? (4 pts)
 - Does the introduction establish a clear position in the form of the central thesis? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts    
+10 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-SUMMARY OF THE ARTICLE
+**Summary of the Article**
 
 - How clearly does the essay describe the experimental method? (5 pts)
 - How explicitly does the essay present the key findings? (5 pts)
 - How well does the essay explain the authors' interpretation of the findings linking it to the claim? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts    
+15 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-CRITICAL ANALYSIS SECTION
+**Critical Analysis Section**
 
 - Does the author clearly formulate the key critical points in their analysis? (7 pts)
 - Is the critical analysis supported by evidence and reasoning? (8 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts    
+15 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-CONCLUSION
+**Conclusion**
 
 - Does the essay briefly recapitulate the key points of the paper and the analysis? (5 pts)
 - Does the essay highlight the significance of the study or suggest the direction for future research? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts    
+10 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-USE OF SOURCES AND CITATIONS
+**Use of Sources and Citations**
 
 - Is evidence from the source material incorporated into the essay appropriately (mostly through paraphrasing)? (4 pts)
 - Is the source material cited in text where appropriate? (3 pts)
 - Does the essay add the source at the end of the paper? (3 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-10 pts    
+10 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-ORGANIZATION
+**Organization**
 
 - Does the essay have a clear overarching structure? (5 pts)
 - Are the key points arranged in a logical sequence? (5 pts)
@@ -106,28 +108,28 @@ ORGANIZATION
 - Are transitions & signal phrases used to highlight connections among the main points? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-20 pts    
+20 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-EXPRESSION
+**Expression**
 
 - Are ideas and information conveyed in clear, fluent prose? (5 pts)
 - Is the tone of the essay neutral and respectful? (5 pts)
 - Is the style of the essay appropriate for the essay’s purpose and target audience? (5 pts)
 
 {{< tdclose >}}{{< tdopen >}}
-15 pts    
+15 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-MECHANICS
+**Mechanics**
 
 - Is the essay free of mechanical errors, including grammar, punctuation, & spelling?
 
 {{< tdclose >}}{{< tdopen >}}
-5 pts    
+5 pts     
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
-Total Points: 100
+**Total Points: 100**
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
