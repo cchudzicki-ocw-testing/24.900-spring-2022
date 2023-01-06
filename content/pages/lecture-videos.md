@@ -6,7 +6,7 @@ draft: false
 title: Lecture Videos
 uid: 592eb1af-de41-4ad8-868d-41de1ac2e246
 ---
-Lecture 1: Introduction \[no video\]
+\[Note: Due to technical problems with the recording, no video is available for lectures 1 and 7.\]
 
 {{% resource_link "5b2d9c4f-38c9-4782-9a09-77f21c4b55c9" "Lecture 2: Morphology (Part 1)" %}} 
 
@@ -17,8 +17,6 @@ Lecture 1: Introduction \[no video\]
 {{% resource_link "77309e2b-7480-4464-8b7a-8030ab7157b4" "Lecture 5: Phonetics (Part 1)" %}}
 
 {{% resource_link "f193c77e-53b5-4ce6-b115-fa926c2f3c04" "Lecture 6: Phonetics (Part 2)" %}}
-
-Lecture 7: Phonetics (Part 3) \[no video\]
 
 {{% resource_link "909d1229-8364-44c1-8b27-74305e6ca226" "Lecture 8: Phonology (Part 1)" %}}
 
