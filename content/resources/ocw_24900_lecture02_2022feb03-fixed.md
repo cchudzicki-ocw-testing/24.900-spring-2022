@@ -24,12 +24,13 @@ video_metadata:
   youtube_description: "MIT 24.900 Introduction to Linguistics, Spring 2022\nInstructor:\
     \ Prof. Norvin A. Richards\nView the complete course: https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j\n\
-    This video provides a quick introduction to what morphology is.\nLicense: Creative\
-    \ Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses\
-    \ at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\nWe encourage\
-    \ constructive comments and discussion on OCW\u2019s YouTube and other social\
-    \ media channels. Personal attacks, hate speech, trolling, and inappropriate comments\
-    \ are not allowed and may be removed. More details at https://ocw.mit.edu/comments.\n"
+    This video provides a quick introduction to what morphology is. [Note: No video\
+    \ is available for Lecture 1.]\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments.\n"
   youtube_id: Mvy5hjAWeZw
 ---
 This video provides a quick introduction to what morphology is.
