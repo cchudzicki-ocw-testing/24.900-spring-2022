@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the third written assignment for 24.900 Introduction
+  to Linguistics.
 draft: false
 title: Assignment 3
 uid: 936c1024-0499-4c07-b78f-f56eb1ec5e91
